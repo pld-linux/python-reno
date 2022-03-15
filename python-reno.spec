@@ -9,6 +9,7 @@
 Summary:	reno: a New Way to manage Release Notes
 Summary(pl.UTF-8):	reno: nowy sposób zarządzania informacjami o wydaniu (Release Notes)
 Name:		python-reno
+# keep 2.x here for python2 support
 Version:	2.11.3
 Release:	2
 License:	Apache v2.0
