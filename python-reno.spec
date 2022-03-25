@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	reno: nowy sposób zarządzania informacjami o wydaniu (Relea
 Name:		python-reno
 # keep 2.x here for python2 support
 Version:	2.11.3
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/reno
