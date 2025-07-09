@@ -14,11 +14,11 @@ Version:	2.11.3
 Release:	8
 License:	Apache v2.0
 Group:		Libraries/Python
-#Source0Download: https://pypi.python.org/simple/reno
+#Source0Download: https://pypi.org/simple/reno/
 Source0:	https://files.pythonhosted.org/packages/source/r/reno/reno-%{version}.tar.gz
 # Source0-md5:	c582cf344169a91f8d9a86b22ae3660a
 Patch0:		%{name}-mock.patch
-URL:		http://docs.openstack.org/developer/reno/
+URL:		https://docs.openstack.org/reno/
 %if %{with python2}
 BuildRequires:	python-modules >= 1:2.7
 BuildRequires:	python-pbr >= 1.4
